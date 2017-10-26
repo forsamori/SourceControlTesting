@@ -1,1 +1,1 @@
-This is a smallish conflict.
+This is a smaller conflict.
