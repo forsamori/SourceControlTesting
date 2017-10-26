@@ -1,1 +1,1 @@
-This is a small conflict, tbh
+This is a small conflict.
