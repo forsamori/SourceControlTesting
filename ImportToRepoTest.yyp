@@ -115,6 +115,25 @@
             }
         },
         {
+            "Key": "20c8e085-d5e5-4097-81d1-1298451ab9aa",
+            "Value": {
+                "id": "7938fb5b-53f7-45ae-ac39-41048f7572ce",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sprite1\/sprite1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2de91b75-1d65-4d3e-b8e9-5b53907ade93",
             "Value": {
                 "id": "0672cb8a-66db-4c2f-b4ed-f6e1f5649ffd",
@@ -438,6 +457,25 @@
             }
         },
         {
+            "Key": "a8342401-dde3-4e18-b74e-8b2498eb144e",
+            "Value": {
+                "id": "a9a575a6-b39a-45f2-a40a-452b1ee8b603",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/object1\/object1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "3cfe3f44-3b7e-4f35-89e8-7c359557cb90",
@@ -530,6 +568,25 @@
                 ],
                 "resourcePath": "timelines\/timeline0\/timeline0.yy",
                 "resourceType": "GMTimeline"
+            }
+        },
+        {
+            "Key": "cbe4889b-4a80-44d7-94d7-3370154382a4",
+            "Value": {
+                "id": "ef1282ce-c7c4-4e84-8dc5-92ff99ffe4e9",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/script1\/script1.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -781,7 +838,8 @@
         }
     ],
     "script_order": [
-        "d6821971-e68c-4670-8fea-2d008173d23c"
+        "d6821971-e68c-4670-8fea-2d008173d23c",
+        "cbe4889b-4a80-44d7-94d7-3370154382a4"
     ],
     "tutorial": ""
 }
