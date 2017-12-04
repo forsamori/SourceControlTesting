@@ -142,7 +142,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "sprite2",
+            "value": "scr_testscript",
             "varName": "variable_resource",
             "varType": 5
         },
@@ -176,9 +176,23 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "$FF1111FC",
+            "value": "$E60048FF",
             "varName": "variable_colour",
             "varType": 7
+        },
+        {
+            "id": "293338ee-d8a5-4632-867e-f512a1bb2cba",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "variable_name",
+            "varType": 0
         }
     ],
     "solid": false,
