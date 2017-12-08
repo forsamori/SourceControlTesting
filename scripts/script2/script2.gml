@@ -1,1 +1,1 @@
-This is a script
+This is a script without a conflict (not)
